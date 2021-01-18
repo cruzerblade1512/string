@@ -1,0 +1,19 @@
+SORT IN C++
+//IN CASE OF CHARACTER ARRAY
+char str[] = "pritam";
+sort(str,str+l);//L IS LENGTH OF STRING 
+
+//IN CASE OF STRING CLASS
+string str = "pritam";
+sort(str.begin(),str.end());
+
+
+REVERSE IN C++
+//REVERSE FUNCTION
+
+string str = "pritam";
+reverse(str.begin(),str.end());
+
+
+
+
